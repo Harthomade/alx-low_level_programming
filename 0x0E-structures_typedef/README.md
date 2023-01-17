@@ -1,0 +1,1 @@
+structure is the declaration of physically grouped list of variable under one name of a block memory, allowing the different variable to be access via a single pointer. it declares names which return with the saeme address
